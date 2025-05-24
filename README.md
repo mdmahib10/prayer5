@@ -1,16 +1,14 @@
-# prayer5
+🕌 Prayer5
 
-A new Flutter project.
+Prayer5 is a simple and customizable Flutter app that plays the Azan (Islamic call to prayer) at the correct prayer times. Whether you want automatic notifications based on your location or prefer to set times manually, Prayer5 offers both options with ease and flexibility.
 
-## Getting Started
+✨ Features
+🔊 Azan Alerts: Automatically plays the Azan at the five daily prayer times.
 
-This project is a starting point for a Flutter application.
+📍 Auto Time Calculation: Calculates prayer times based on your location.
 
-A few resources to get you started if this is your first Flutter project:
+🕰️ Manual Time Entry: Option to manually set prayer times if preferred.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎵 Custom Azan Sound: Upload and use your own Azan audio file.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚙️ Simple & Clean UI: Focused on functionality and ease of use.
