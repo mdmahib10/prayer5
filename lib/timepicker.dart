@@ -28,7 +28,7 @@ class _time_pickerState extends State<time_picker> {
                   selectedTime = time;
                   DateTime dTime = DateTime.now();
                   
-                  PlaySound().playazan(combineDateAndTime(dTime, time));
+                  PlaySound().scheduleAzan(combineDateAndTime(dTime, time));
                 });
               }
             },
